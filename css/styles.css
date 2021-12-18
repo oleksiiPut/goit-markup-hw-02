@@ -81,6 +81,7 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
   background-color: #2196f3;
+  cursor: pointer;
 }
 
 .hero-btn:hover,
