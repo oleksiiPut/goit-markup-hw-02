@@ -36,6 +36,10 @@ body {
   color: var(--accent-color);
 }
 
+.current a {
+  color: var(--accent-color);
+}
+
 .header-link {
   font-weight: 500;
   font-size: 14px;
@@ -149,6 +153,10 @@ body {
 }
 
 /* Команда */
+
+.team {
+  background: #f5f4fa;
+}
 
 /* .team-title {
   font-weight: bold;
